@@ -27,5 +27,5 @@
 // }
 
 function shout(string){
-  return string
+  return string.toUpperCase()
 }
